@@ -1,0 +1,1 @@
+"# ManualInstalac-oLinux.txt" 
